@@ -1,5 +1,5 @@
 # src
-## 公共第三方插件
+## 建一个自己的第三方插件
 #### 点击 Raw 看地址栏    
 #### 例如 我看了  jquery.min.js 文件 
 #### 地址栏 ： https://raw.githubusercontent.com/ChinaJiu/src/master/jquery.min.js
