@@ -1,4 +1,4 @@
-//设置窗口大小
+//移动端窗口兼容
 if(/Android (\d+\.\d+)/.test(navigator.userAgent)){
 	var version = parseFloat(RegExp.$1);
 	if(version>2.3){
